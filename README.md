@@ -100,6 +100,10 @@ Every benchmark must name the metric and workload. “Faster” is not a result.
 
 ### Fine-tuning
 
+- learning paradigms: use the [performance and tuning guide by paradigm](theory/09-performance-and-tuning-by-learning-paradigm.md)
+  to separate task-quality evaluation from systems optimization for supervised,
+  unsupervised, semi-supervised, self-supervised, reinforcement, active, and
+  preference learning;
 - classification evaluation: start with the [ranked metrics catalog and minimum
   report](theory/02-classification-metrics-catalog.md), then use the linked deep
   dives for accuracy, precision, recall, averaging, imbalance, ranking,
