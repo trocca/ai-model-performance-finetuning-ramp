@@ -100,6 +100,10 @@ Every benchmark must name the metric and workload. “Faster” is not a result.
 
 ### Fine-tuning
 
+- classification evaluation: start with the [ranked metrics catalog and minimum
+  report](theory/02-classification-metrics-catalog.md), then use the linked deep
+  dives for accuracy, precision, recall, averaging, imbalance, ranking,
+  probability quality, calibration, and threshold selection;
 - domain adaptation, supervised fine-tuning, instruction tuning, and continued
   pretraining;
 - catastrophic forgetting, overfitting, leakage, and train/eval contamination;
